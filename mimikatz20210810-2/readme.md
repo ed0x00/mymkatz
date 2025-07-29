@@ -2,7 +2,10 @@ certutil -hashfile .\mimikatz.exe SHA256
 
 hashes:
 mimidrv.sys - bee3d0ac0967389571ea8e3a8c0502306b3dbf009e8155f00a2829417ac079fc
+
 mimikatz.exe - 912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9
+
 mimilib.dll - d9770865ea739a8f1702a2651538f4f4de2d92888d188d8ace2c79936f9c2688
+
 mimispool.dll - 96632f716df30af567da00d3624e245d162d0a05ac4b4e7cbadf63f04ca8d3da
 
